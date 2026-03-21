@@ -1,4 +1,8 @@
-# Embodied Notes / 具身相关工作 5min 解读
+<p align="center">
+  <img src="assets/logo.png" alt="Embodied Notes Logo" width="900">
+</p>
+
+# Embodied Notes / 具身智能前沿工作 5min 解读
 
 > 一个围绕具身智能前沿工作的个人解读仓库。  
 > 每期内容对应一条 5min 视频，并附上论文 / 项目 / 公司链接 / 简短总结。  
