@@ -41,6 +41,8 @@
 
 ### EP01｜5min看懂NVIDIA2月新作--DreamZero/什么是WAM? 
 
+**DreamZero**：
+
 **对象**：  
 - 公司 / 实验室：NVIDIA
 - 论文 / 项目名称：DreamZero: World Action Models are Zero-shot Policies
