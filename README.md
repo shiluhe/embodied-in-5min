@@ -22,7 +22,8 @@
 
 1. 先看「最新视频解读」
 2. 再按「主题」找你感兴趣的方向
-3. 每一期都附了原论文、项目页、代码、视频链接
+3. 每一期都附了原论文、项目页、代码
+4. ./assets/contexts 里面有每一期的视频文稿
 
 ---
 
@@ -40,7 +41,7 @@
 
 **对象**：  
 - 公司 / 实验室：NVIDIA
-- 论文 / 项目名称：World Action Models are Zero-shot Policies
+- 论文 / 项目名称：DreamZero: World Action Models are Zero-shot Policies
 - 发布时间：2026-02-19
 
 **原始链接**：  
