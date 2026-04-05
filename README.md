@@ -15,6 +15,7 @@
 - 2026-03-21：仓库创建 & logo
 - 2026-03-22：EP01
 - 2026-03-25：EP02
+- 2026-04-05：EP03
 ---
 
 ## 🚀Start Here｜从这里开始
@@ -32,8 +33,9 @@
 
 | 日期 | 标题 | 主题 | 链接 |
 |------|------|------|------|
-| 2026-03-22 |5min看懂NVIDIA2月新作--DreamZero/什么是WAM? | WAM / 世界模型 | [Bilibili](https://www.bilibili.com/video/BV1u5QQBxE8J/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
-| 2026-03-25 |5min告诉你WAM为什么这么强？Fast_WAM/GigaWorld-Policy解读 | WAM / 世界模型 | [Bilibili](https://www.bilibili.com/video/BV1JxXhBHEaC/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
+| 2026-03-22 | 5min看懂NVIDIA2月新作--DreamZero/什么是WAM? | WAM / 世界模型 | [Bilibili](https://www.bilibili.com/video/BV1u5QQBxE8J/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
+| 2026-03-25 | 5min告诉你WAM为什么这么强？Fast_WAM/GigaWorld-Policy解读 | WAM / 世界模型 | [Bilibili](https://www.bilibili.com/video/BV1JxXhBHEaC/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
+| 2026-04-05 | 5min带你了解常见单臂操作benchmarks | benchmarks | [Bilibili]() |
 
 ---
 
@@ -78,4 +80,14 @@
 - Paper：https://arxiv.org/pdf/2603.17240
 - Project Page：https://gigaai-research.github.io/GigaWorld-Policy/
 - Code：https://github.com/open-gigaai/giga-world-policy
+
+### EP03｜5min带你了解常见单臂操作benchmarks
+
+**对象 & 链接**：  
+- Metaworld：https://github.com/Farama-Foundation/Metaworld
+- LIBERO：https://github.com/Lifelong-Robot-Learning/LIBERO
+- CALVIN：https://github.com/mees/calvin
+- ManiSkill：https://github.com/haosulab/maniskill
+- SimplerEnv：https://github.com/simpler-env/SimplerEnv
+
 ---
