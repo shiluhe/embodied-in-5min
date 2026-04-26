@@ -16,6 +16,7 @@
 - 2026-03-22：EP01
 - 2026-03-25：EP02
 - 2026-04-05：EP03
+- 2026-04-16：EP04
 ---
 
 ## 🚀Start Here｜从这里开始
@@ -36,6 +37,7 @@
 | 2026-03-22 | 5min看懂NVIDIA2月新作--DreamZero/什么是WAM? | WAM / 世界模型 | [Bilibili](https://www.bilibili.com/video/BV1u5QQBxE8J/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
 | 2026-03-25 | 5min告诉你WAM为什么这么强？Fast_WAM/GigaWorld-Policy解读 | WAM / 世界模型 | [Bilibili](https://www.bilibili.com/video/BV1JxXhBHEaC/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
 | 2026-04-05 | 5min带你了解常见单臂操作benchmarks | benchmarks | [Bilibili](https://www.bilibili.com/video/BV11WSDBkE69/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
+| 2026-04-16 | 5min带你盘点国内外头部人形机器人公司 | / | [Bilibili](https://www.bilibili.com/video/BV1pJdbBtEC7/?share_source=copy_web&vd_source=e04fab70977b1b2117cf35c1a17faa06) |
 
 ---
 
@@ -90,4 +92,5 @@
 - ManiSkill：https://github.com/haosulab/maniskill
 - SimplerEnv：https://github.com/simpler-env/SimplerEnv
 
+### EP04｜5min带你盘点国内外头部人形机器人公司
 ---
